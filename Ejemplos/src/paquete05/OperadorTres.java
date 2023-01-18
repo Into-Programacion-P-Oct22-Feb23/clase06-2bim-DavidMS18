@@ -8,10 +8,9 @@ package paquete05;
  *
  * @author SALA I
  */
-public class operadorTres {
+public class OperadorTres {
 
     public static int obtenerMultiplicacion(int a, int b) {
-        return a + b;
+        return a * b;
     }
-
 }
